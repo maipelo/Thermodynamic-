@@ -1,0 +1,15 @@
+
+#include "/home/nyepetsim/Documents/GROMACS/share/top/oplsaa.ff/forcefield.itp"
+
+#include "/home/nyepetsim/Documents/GROMACS/share/top/oplsaa.ff/TRI _THF_MET_1.itp"
+
+[ system ]
+; Name
+TRI  (104) THF (112) M3T (264)using oplsaa force field
+
+
+[ molecules ]
+; Compound        #mols
+TRI      104
+THF      112
+M3T      264
